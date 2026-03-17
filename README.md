@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Loraine
 
-<!--
-**luoijin/luoijin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building things that matter, one commit at a time.
 
-Here are some ideas to get you started:
+💻 Developer • Problem Solver • Lifelong Learner  
+📬 [aloraine.cs@gmail.com](mailto:aloraine.cs@gmail.com)  
+📸 [@loraineawo](https://instagram.com/loraineawo) on Instagram  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⚡ I write code that's clean, purposeful, and occasionally over-engineered.  
+🌱 Always learning. Always building.  
+🤝 Open to collabs, ideas, and cool projects.
+
+---
+
+*"Keep moving forward."*

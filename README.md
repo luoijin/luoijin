@@ -4,7 +4,6 @@
 
 💻 Developer • Problem Solver • Lifelong Learner  
 📬 [aloraine.cs@gmail.com](mailto:aloraine.cs@gmail.com)  
-📸 [@loraineawo](https://instagram.com/loraineawo) on Instagram  
 
 ---
 

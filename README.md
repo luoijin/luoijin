@@ -1,6 +1,6 @@
 # Hey, I'm Loraine
 
-> Building things that matter, one commit at a time.
+> Building her one line at a time.
 
 💻 Developer • Problem Solver • Lifelong Learner  
 📬 [aloraine.cs@gmail.com](mailto:aloraine.cs@gmail.com)  
@@ -14,5 +14,3 @@
 ---
 
 *"Keep moving forward."*
-
-> Building her one line at a time.

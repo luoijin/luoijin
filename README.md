@@ -14,3 +14,5 @@
 ---
 
 *"Keep moving forward."*
+
+> Building her one line at a time.

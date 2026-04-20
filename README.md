@@ -7,7 +7,6 @@
 
 ---
 
-⚡ I write code that's clean, purposeful, and occasionally over-engineered.  
 🌱 Always learning. Always building.  
 🤝 Open to collabs, ideas, and cool projects.
 

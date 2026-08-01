@@ -2,7 +2,7 @@
 
 > Building her one line at a time.
 
-💻 Developer • Problem Solver • Lifelong Learner  
+💻 AI Engineer • Problem Solver • Lifelong Learner  
 📬 [aloraine.cs@gmail.com](mailto:aloraine.cs@gmail.com)  
 
 ---

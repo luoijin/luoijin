@@ -44,7 +44,7 @@ An engineer focused on building robust full-stack applications, intelligent agen
 ---
 
 <p align="center">
-  <sub>🎸 Code in the studio · 📚 Lay with a book · 🌌 Dream in pixels</sub>
+  <sub>🎸 Code in the studio · 📚 Lay with the books · 🌌 Dream in pixels</sub>
 </p>
 
 <p align="center">

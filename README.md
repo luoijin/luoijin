@@ -27,6 +27,8 @@ An engineer focused on building robust full-stack applications, intelligent agen
   <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-181717?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agent-181717?style=for-the-badge" />
 </p>
 
 ### GitHub Stats

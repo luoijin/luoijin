@@ -17,7 +17,7 @@ An engineer focused on building robust full-stack applications, intelligent agen
 ### Current Focus
 
 * **AI & Computer Vision Systems** — integrating real-time gesture interfaces and environmental monitoring
-* **Full-Stack Architecture** — designing scalable APIs and web solutions using the MERN stack and Python
+* **Full-Stack Architecture** — designing scalable APIs, modern web applications, and multi-tier systems across various database and framework paradigms
 
 ### Tech Stack
 

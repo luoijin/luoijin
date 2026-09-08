@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5A2A9A&height=180&section=header&text=Loraine&fontColor=ffffff&fontSize=58&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5C2D91&height=180&section=header&text=Loraine&fontColor=ffffff&fontSize=58&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Problem+Solver+%E2%80%A2+Lifelong+Learner;Full-Stack+Developer;AI%2FML+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8B31B8&center=true&vCenter=true&width=600&lines=Problem+Solver+%E2%80%A2+Lifelong+Learner;Full-Stack+Developer;AI%2FML+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@ An engineer focused on building robust full-stack applications, intelligent agen
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luoijin&theme=dark&background=181824&border=2a2a3c&stroke=2a2a3c&ring=9333EA&fire=9333EA&currStreakNum=9333EA&sideNums=ffffff&sideTitle=9333EA&dates=71717a" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luoijin&theme=dark&background=181824&border=2a2a3c&stroke=2a2a3c&ring=8B31B8&fire=8B31B8&currStreakNum=8B31B8&sideNums=ffffff&sideTitle=8B31B8&dates=71717a" />
 </p>
 
 ### Elsewhere
@@ -48,5 +48,5 @@ An engineer focused on building robust full-stack applications, intelligent agen
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5A2A9A&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5C2D91&height=100&section=footer" width="100%" />
 </p>

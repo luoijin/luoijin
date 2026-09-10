@@ -34,7 +34,7 @@ An engineer focused on building robust full-stack applications, intelligent agen
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luoijin&theme=dark&background=181824&border=2a2a3c&stroke=2a2a3c&ring=7C3AED&fire=7C3AED&currStreakNum=7C3AED&sideNums=ffffff&sideTitle=7C3AED&dates=71717a" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luoijin&theme=dark&background=181824&border=2a2a3c&stroke=2a2a3c&ring=7C3AED&fire=7C3AED&currStreakNum=7C3AED&sideNums=ffffff&sideTitle=7C3AED&dates=71717a&count_private=true" />
 </p>
 
 ### Elsewhere

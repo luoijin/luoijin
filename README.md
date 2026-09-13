@@ -16,8 +16,10 @@ An engineer focused on building robust full-stack applications, intelligent agen
 
 ### Current Focus
 
-* **AI & Computer Vision Systems** — integrating real-time gesture interfaces and environmental monitoring
-* **Full-Stack Architecture** — designing scalable APIs, modern web applications, and multi-tier systems across various database and framework paradigms
+- **AI & Computer Vision Systems** — integrating real-time gesture interfaces and environmental monitoring
+- **Full-Stack Architecture** — designing scalable APIs, modern web applications, and multi-tier systems across various database and framework paradigms
+- **Computer Architecture & Embedded Systems** — researching accelerators, distributed systems, and low-level hardware-software co-design
+- **Machine Learning & Data Science** — exploring LLMs, rule-based systems, and applied AI research
 
 ### Tech Stack
 
@@ -25,6 +27,9 @@ An engineer focused on building robust full-stack applications, intelligent agen
   <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-181717?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-181717?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-181717?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-181717?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM-181717?style=for-the-badge" />

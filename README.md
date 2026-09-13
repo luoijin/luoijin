@@ -8,6 +8,8 @@
   </a>
 </p>
 
+---
+
 ### About
 
 An engineer focused on building robust full-stack applications, intelligent agent systems, and AI-driven platforms.

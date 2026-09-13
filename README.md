@@ -39,7 +39,7 @@ An engineer focused on building robust full-stack applications, intelligent agen
 
 ### Contact
 
-* Email: [aloraine.cs@gmail.com](mailto:aloraine.w@gmail.com)
+* Email: [aloraine.w@gmail.com](mailto:aloraine.w@gmail.com)
 
 ---
 

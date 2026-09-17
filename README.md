@@ -13,7 +13,7 @@
 
 ### About
 
-An engineer and researcher building robust full-stack applications, intelligent agent systems, and AI-driven platforms. My work spans computer architecture, embedded systems, accelerators, computer vision, distributed systems, machine learning, data science, LLMs, and rule-based systems.
+An engineer building robust full-stack applications, intelligent agent systems, and AI-driven platforms. My work spans computer architecture, embedded systems, accelerators, computer vision, distributed systems, machine learning, data science, LLMs, and rule-based systems.
 
 ### Current Focus
 

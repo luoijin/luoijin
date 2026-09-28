@@ -50,7 +50,7 @@ An engineer building robust full-stack applications, intelligent agent systems, 
 ---
 
 <p align="center">
-  <sub>🎸 Code in the studio · 📚 Lay with the books · 🌌 Dream in pixels</sub>
+  <sub>🎸</sub>
 </p>
 
 <p align="center">

@@ -47,8 +47,6 @@ An engineer building robust full-stack applications, intelligent agent systems, 
 
 * Email: [aloraine.w@gmail.com](mailto:aloraine.w@gmail.com)
 
----
-
 <p align="center">
   <sub>🎸</sub>
 </p>

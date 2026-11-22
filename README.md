@@ -25,16 +25,16 @@ An engineer building robust full-stack applications, intelligent agent systems, 
 ### Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/LLM-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
-  <img src="https://img.shields.io/badge/Agent-0EA5E9?style=for-the-badge&logo=robotframework&logoColor=white" alt="Agent" />
+  <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/C-181717?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
+  <img src="https://img.shields.io/badge/C++-181717?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/CUDA-181717?style=for-the-badge&logo=nvidia&logoColor=76B900" alt="CUDA" />
+  <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-181717?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/LLM-181717?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="LLM" />
+  <img src="https://img.shields.io/badge/Agent-181717?style=for-the-badge&logo=probot&logoColor=7C3AED" alt="Agent" />
 </p>
 
 ### GitHub Stats

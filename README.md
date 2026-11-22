@@ -32,6 +32,7 @@ An engineer building robust full-stack applications, intelligent agent systems, 
   <img src="https://img.shields.io/badge/C++-181717?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/CUDA-181717?style=for-the-badge&logo=nvidia&logoColor=76B900" alt="CUDA" />
   <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/Rust-181717?style=for-the-badge&logo=rust&logoColor=DEA584" alt="Rust" />
   <img src="https://img.shields.io/badge/PHP-181717?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
   <img src="https://img.shields.io/badge/LLM-181717?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="LLM" />
   <img src="https://img.shields.io/badge/Agent-181717?style=for-the-badge&logo=probot&logoColor=7C3AED" alt="Agent" />

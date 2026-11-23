@@ -20,7 +20,7 @@ An engineer building robust full-stack applications, intelligent agent systems, 
 - **AI & Computer Vision Systems** — integrating real-time gesture interfaces and environmental monitoring
 - **Full-Stack Architecture** — designing scalable APIs, modern web applications, and multi-tier systems across various database and framework paradigms
 - **Computer Architecture & Embedded Systems** — researching accelerators, distributed systems, and low-level hardware-software co-design
-- **Machine Learning & Data Science** — exploring LLMs, rule-based systems, and applied AI research
+- **Machine Learning & Data Science** — exploring LLMs, and rule-based systems
 
 ### Tech Stack
 
